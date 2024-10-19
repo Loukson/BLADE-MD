@@ -28,7 +28,7 @@
   <a href="My email: maxdavid126@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
-    My email Adress : maxdavid126@gmail.com
+    My E-MAIL Adress : maxdavid126@gmail.com
      
   <div><br>
 </p>
@@ -36,6 +36,7 @@
 ## Deployment Methods
 ---
 1. ***Get [`SESSION ID`](https://secret-plateau-39898-43273a7c97e1.herokuapp.com//) [`SESSION ID 2`](https://blade-0wz6.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+2.***Get [`SESSION_ID3`](https://blade-pair-gdhe.onrender.com/pair//) by pire code.
    
 # ```EXTERNAL STUFF AND API```
 
