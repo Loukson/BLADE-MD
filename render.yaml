@@ -6,7 +6,6 @@ services:
     plan: free
     repo: https://github.com/Loukson/BLADE-MD.git
     branch: main
-    domains: onrender.com
     buildCommand: npm install
     startCommand: npm start
     dockerfilePath: Dockerfile
