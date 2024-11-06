@@ -8,5 +8,4 @@ services:
     branch: main
     buildCommand: npm install
     startCommand: npm start
-    dockerfilePath: Dockerfile
     autoDeploy: true
