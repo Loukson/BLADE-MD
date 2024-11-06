@@ -1,8 +1,0 @@
-services[0]:
-  - type: web
-    name: BLADE-MD
-    env: node
-    region: frankfurt
-    plan: free
-    startCommand: Dockerfile
-    autoDeploy: true
