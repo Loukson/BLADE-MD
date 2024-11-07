@@ -6,6 +6,4 @@ services:
     plan: free
     repo: https://github.com/Loukson/BLADE-MD.git
     branch: main
-    buildCommand: npm install
-    startCommand: npm start
     autoDeploy: true
